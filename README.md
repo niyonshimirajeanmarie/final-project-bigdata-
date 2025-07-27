@@ -60,3 +60,24 @@ The Python Jupyter Notebook includes:
 
 ## 📁 Repository Structure
 
+
+---
+
+## 💡 Future Work
+
+- Use ensemble learning (e.g., XGBoost or stacking)
+- Integrate satellite or sensor data
+- Deploy model as a web-based prediction tool
+
+---
+
+## 📬 Submission
+
+To: `eric.maniraguha@auca.ac.rw`  
+**Deadline:** Before grading session begins.
+
+---
+
+> “Whatever you do, work at it with all your heart, as working for the Lord…” — Colossians 3:23
+
+
