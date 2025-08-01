@@ -52,6 +52,10 @@ The cleaned dataset was imported into **Power BI** for visualization and reporti
 ## Sample Visualizations
 
 <img width="872" height="501" alt="loading the data " src="https://github.com/user-attachments/assets/7dc38c5b-c972-4a55-9861-978be5f47e8a" />
+<img width="670" height="535" alt="Screenshot 2025-07-29 085256" src="https://github.com/user-attachments/assets/a14b67a1-f30e-4018-9541-a4618d741a7b" />
+<img width="901" height="463" alt="data transformation" src="https://github.com/user-attachments/assets/a7697b92-54a3-48d9-a10f-2fc0cc41176b" />
+
+
 
 
 ## dash board 
