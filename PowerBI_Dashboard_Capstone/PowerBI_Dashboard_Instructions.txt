@@ -1,0 +1,18 @@
+
+PART 3: POWER BI DASHBOARD TASKS
+Using Power BI, design a dashboard to present your data insights:
+
+1. Communicate the Problem & Insights Clearly
+▪ Include context and summaries drawn from your data analysis
+
+2. Incorporate Interactivity
+▪ Use slicers, filters, and drill-down options for user interaction
+
+3. Use Appropriate Visuals
+▪ Match chart types (bar, line, scatter, etc.) with your data goals
+
+4. Ensure Design Clarity
+▪ Apply consistent color themes, clear labels, and tidy layouts
+
+5. Add Innovative Features
+▪ Include advanced features like DAX formulas, AI visuals, custom tooltips, bookmarks, or R visuals
