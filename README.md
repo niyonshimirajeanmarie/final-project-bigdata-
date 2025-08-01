@@ -59,7 +59,8 @@ The cleaned dataset was imported into **Power BI** for visualization and reporti
 
 
 ## dash board 
-<img width="1024" height="1024" alt="the dashboard" src="https://github.com/user-attachments/assets/ec39a148-7203-4df2-b76c-1670b7c0c21c" />
+<img width="842" height="368" alt="image" src="https://github.com/user-attachments/assets/bf028ba7-5a25-4976-9a6e-bbf86063d0d8" />
+
 
 
 ---
