@@ -1,6 +1,6 @@
 # Predicting Maize Production in Rwanda Using Big Data Analytics/power BI
 
-## Assignment – INSY 8413: Introduction to Big Data  
+## FINAL PROJECT  – INSY 8413: Introduction to Big Data  
 **Name:** Niyonshimira Jeanmarie  
 **Student ID:** 27197  
 **Instructor:** Eric Maniraguha  
